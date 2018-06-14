@@ -5,6 +5,6 @@
 </head>
 <body>
 
-<h5> <%=  new java.util.Date()%></h5>
+<h5 style="text-align: center"> <%=  new java.util.Date()%></h5>
 </body>
 </html>
